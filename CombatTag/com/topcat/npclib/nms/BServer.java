@@ -1,6 +1,6 @@
 package com.topcat.npclib.nms;
 
-import jline.console.ConsoleReader;
+import org.bukkit.craftbukkit.libs.jline.console.ConsoleReader;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.server.PropertyManager;
 import net.minecraft.server.ServerConfigurationManager;
